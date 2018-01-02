@@ -1,4 +1,33 @@
-﻿"Name","Impressions per 7 days","Uniques per 7 days","Average CPM"
-"Mobile interstitial","191226480","6853760","6.192541122436523"
-"Non youtube instream","21830614","3288461","5.553829193115234"
-"Game","1534716","69912","4.1959614753723145"
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <!-- <link rel="stylesheet" href="/semantic.min.css"> -->
+    <link rel="stylesheet" href="/pikaday.css">
+    <link rel="stylesheet" href="/leaflet.draw.css">
+    <link rel="stylesheet" href="/rc-slider.css">
+    <link rel="stylesheet" href="/font-awesome-4.6.3/css/font-awesome.min.css">
+
+    <title>Groundhog MI</title>
+    <style>
+      body {
+        background-color: #f4f4f4 !important;
+      }
+      .leaflet-container {
+        height: 100%;
+        width: 100%;
+        margin: 0 auto;
+      }
+      .pika-single {
+        border: 0px !important;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=visualization&key=AIzaSyCzorVjuh_0MjC9twTs-GO1khK-yJNYfFA"></script>
+  <link href="/app.css?eab4b0ca1aaecfaad51c" rel="stylesheet"></head>
+  <body>
+    <div id="root"></div>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+  <script type="text/javascript" src="/app.bundle.js?eab4b0ca1aaecfaad51c"></script></body>
+</html>
