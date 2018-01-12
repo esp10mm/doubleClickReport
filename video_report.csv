@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
-    <link rel="shortcut icon" href="/favicon.ico">
-
-    <!-- <link rel="stylesheet" href="/semantic.min.css"> -->
-    <link rel="stylesheet" href="/pikaday.css">
-    <link rel="stylesheet" href="/leaflet.draw.css">
-    <link rel="stylesheet" href="/rc-slider.css">
-    <link rel="stylesheet" href="/font-awesome-4.6.3/css/font-awesome.min.css">
-
-    <title>Groundhog MI</title>
-    <style>
-      body {
-        background-color: #f4f4f4 !important;
-      }
-      .leaflet-container {
-        height: 100%;
-        width: 100%;
-        margin: 0 auto;
-      }
-      .pika-single {
-        border: 0px !important;
-      }
-    </style>
-    <script src="https://maps.googleapis.com/maps/api/js?libraries=visualization&key=AIzaSyCzorVjuh_0MjC9twTs-GO1khK-yJNYfFA"></script>
-  <link href="/app.css?59c2fe7d5f17f1cfd8b1" rel="stylesheet"></head>
-  <body>
-    <div id="root"></div>
-    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
-  <script type="text/javascript" src="/app.bundle.js?59c2fe7d5f17f1cfd8b1"></script></body>
-</html>
+﻿"Name","Impressions per 7 days","Uniques per 7 days","Average CPM"
+"Mobile interstitial","217756960","7121836","5.932068347930908"
+"Non youtube instream","25523316","4015401","6.9493408203125"
+"Game","1424932","65174","4.060533046722412"
